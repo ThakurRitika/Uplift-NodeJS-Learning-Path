@@ -10,5 +10,5 @@ This is the template for participants' checklist. You can create a checklist in 
 
 - [x] What is NodeJS
 - [x] What can we do with NodeJS
-- [x] Crash Course
+- [ ] Crash Course
 - [x] Installing NodeJS
